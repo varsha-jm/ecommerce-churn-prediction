@@ -20,7 +20,7 @@ so businesses can take proactive retention actions.
 - cleaned_ecommerce_churn.csv — Processed Dataset
 
 ## 🚀 Current Status
-✅ EDA Complete
+✅ EDA Complete.
 ✅ Data Preprocessing Complete
 ⏳ Model Training — In Progress
 
